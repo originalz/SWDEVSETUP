@@ -18,3 +18,4 @@ Maybe your /_dev/ dir doesn't have access rights at this point, so check for it 
 chmod +x _dev/
 ```
 
+At this point you need to copy your live database and you edit your config.php in the Shopware 5 Project Folder and add your dev database credentials
